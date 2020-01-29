@@ -1,0 +1,9 @@
+npm i class-transformer class-validator  ----for validation
+npm i @nestjs/typeorm typeorm pg -----for database connection and orm
+npm i bcrypt ---for token
+/////////////// using dependencies for authentication
+npm i @nestjs/passport ----for implementing passport middleware
+passport ---this is actual passport library
+passport-jwt -----for configuring passport to use jwt token
+@nestjs/jwt --- which is the wrapper module for nestjs jwt token
+
